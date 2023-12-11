@@ -1,13 +1,13 @@
 {
   "name": "f-sign",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
-  "main": "./out/sign-class.umd.cjs",
-  "module": "./out/sign-class.js",
+  "main": "./out/sign-class.umd.js",
+  "module": "./out/sign-class.mjs",
   "exports": {
     ".": {
-      "import": "./out/sign-class.umd.cjs",
-      "require": "./out/sign-class.js"
+      "import": "./out/sign-class.umd.js",
+      "require": "./out/sign-class.mjs"
     }
   },
   "scripts": {
