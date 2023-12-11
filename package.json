@@ -2,6 +2,7 @@
   "name": "f-sign",
   "version": "1.0.2",
   "description": "",
+  "files": [],
   "main": "./out/sign-class.umd.cjs",
   "module": "./out/sign-class.js",
   "exports": {
@@ -16,6 +17,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vite": "^5.0.7"
+    "vite": "^4.0.0"
   }
 }
