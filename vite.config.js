@@ -4,6 +4,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   build: {
+    outDir: "out",
     lib: {
       entry: resolve(__dirname, "lib/main.js"),
       name: "SignClass",
